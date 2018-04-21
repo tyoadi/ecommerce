@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">e-commerce</string>
+    <string name="sms_login">Login Melalui Sms</string>
+    <string name="facebook_login">Login Menggunakan Facebook</string>
+</resources>
